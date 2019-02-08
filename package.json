@@ -1,0 +1,16 @@
+{
+  "name": "scraper",
+  "version": "1.0.0",
+  "description": "Credit card promotion scraper for https://www.bankmega.com/promolainnya.php",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Jeffry Hermanto",
+  "license": "ISC",
+  "dependencies": {
+    "node-json-color-stringify": "^1.1.0",
+    "puppeteer": "^1.12.2"
+  }
+}
